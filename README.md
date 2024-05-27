@@ -4,7 +4,7 @@ Aplicação para facilitar a área de contenção da empresa • <a href="https:
 
 <details>
   <summary><b>Query do SQL</b></summary>
-    <ul><p align="center"><img src="https://github.com/alimkhodr/Ordem-de-Servico/assets/85517447/32ebff7f-6ac4-477a-9345-20aaa959d40d](https://github.com/alimkhodr/Contencao-Aptiv/assets/85517447/6490c677-cbbe-4c93-a713-8cfa9b470215"></img></p></ul>
+    <ul><p align="center"><img src="https://github.com/alimkhodr/Contencao-Aptiv/assets/85517447/3f027446-5872-48af-943a-0d0c29078d1b"></img></p></ul>
 </details>
 
 <details>
