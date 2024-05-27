@@ -51,7 +51,6 @@ Screenshot das telas do sitema.<br>
     <ul><p align="center"><img src="https://github.com/alimkhodr/Contencao-Aptiv/assets/85517447/3d217b5b-132f-49fa-b80d-267fb450eba5"></img></p></ul>
     Mudança de área do sistema (mudança do arquivo area.txt salvo no pc onde foi instalado).
   </details>
-  </details>
     <details>
     <summary><b>Login</b></summary>
     <ul><p align="center"><img src="https://github.com/alimkhodr/Contencao-Aptiv/assets/85517447/fdbd8812-25e9-4f0f-ba0e-40660a89128d"></img></p></ul>
